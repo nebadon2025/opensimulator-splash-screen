@@ -1,0 +1,3 @@
+edit gridstats.php and enter your database information
+edit index.php to change the twitter widget account name on line 74
+edit index.php lines 34-45 to edit regions listing
